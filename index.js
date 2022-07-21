@@ -9,7 +9,7 @@
  *      2. tính lương = lương 1 ngày * số ngày làm
  *      3. log lương ra màn hình thông qua button
  *
- * OUTPUT: lương
+ * OUTPUT: tổng tiền lương
  *
  */
 function BT1() {
